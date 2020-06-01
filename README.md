@@ -3,14 +3,14 @@ To track employee activity.
 
 # API
     # Admin:
-        http://192.168.1.100:8990/admin/
+        http://172.105.55.52:8990/admin/
     # Admin has the access to add or remove an employee.
-        http://192.168.1.100:8990/admin/activity/employee/add/
+        http://172.105.55.52:8990/admin/activity/employee/add/
 
     # Employee has the access to add his activity
-        http://192.168.1.100:8990/admin/activity/employeeactivity/add/
+        http://172.105.55.52:8990/admin/activity/employeeactivity/add/
 
     # Employee Detail API
-        http://192.168.1.100:8990/api/v1/employee/detail/
+        http://172.105.55.52:8990/api/v1/employee/detail/
     
 
